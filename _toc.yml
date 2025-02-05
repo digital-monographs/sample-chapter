@@ -1,0 +1,4 @@
+format: jb-book
+root: 00_index
+chapters:
+  - file: 05_shaping-the-memorecord-digital-memory-platform
